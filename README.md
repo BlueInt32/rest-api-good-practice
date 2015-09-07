@@ -74,6 +74,12 @@ REST is not bound to any description langage. A RESTful service can return XML, 
 - good design is supposed to contain hypermedia links to related resources. For example in a list of products, each product should have a link pointing to its detail URL.
 - GET should never cause a state change
 
+## ASP.NET implementation
+#### Exceptions handling
+#### Routing
+#### Configurations
+#### 
+
 
 #### Documenting the API :
 Swagger
@@ -85,6 +91,14 @@ Swagger
 * Best Practices for Designing a Pragmatic RESTful API
 
 	-> http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+	
+* HAL hypermedia Type and other stuff
+
+	-> http://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
+	
+* JSon schema
+
+	-> https://brandur.org/elegant-apis
 	
 	
 	
