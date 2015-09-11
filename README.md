@@ -192,6 +192,9 @@ Swagger
 * HAL hypermedia Type and other stuff
 
 	-> http://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
+* understanding HATEOAS
+
+	-> https://spring.io/understanding/HATEOAS	
 	
 * JSon schema
 
