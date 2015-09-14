@@ -12,7 +12,7 @@ Its main characteristics are :
 	-> the server scales easier, by not dealing with multiple session memory management 
 * Cacheability
 
-Most of the time it relies on the HTTP protocol, using its verbs : GET, POST, PUT, DELETE, PATCH. Although it does not offer built-in security features, encryption, session managemeent, QoS guarantee, those services can be added on top of HTTP.
+Most of the time it relies on the HTTP protocol, using its verbs : GET, POST, PUT, DELETE, PATCH. Although it does not offer built-in security features, encryption, session managemeent, QoS guarantee, those services can be added on top of HTTP
 
 Notes about the document : 
 - JSON : requests content are written using JSON. It is the go-to description langage nowadays but XML could also be used. 
