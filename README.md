@@ -175,8 +175,8 @@ REST is not bound to any description langage. A RESTful service can return XML, 
 #### Exceptions handling
 #### Routing
 #### Configurations
-#### Documentation
-
+#### Documentation (swagger)
+#### Validations of forms
 
 #### Documenting the API :
 Swagger
