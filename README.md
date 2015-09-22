@@ -179,7 +179,7 @@ REST is not bound to any description langage. A RESTful service can return XML, 
 #### Validations of forms
 
 #### Documenting the API :
-Swagger
+The go-to library to create automatic documentations of an API is Swagger. Swagger has its .NET adaptation which is called Swashbuckle.  
 
 ### Bibliography 
 * Learn REST : A Tutorial (a tad old)
